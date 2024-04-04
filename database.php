@@ -13,6 +13,5 @@ function make_connection()
     }
     echo "successfully connected.";
 
-}
-make_connection()
+} 
 ?>
